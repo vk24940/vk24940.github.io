@@ -8,5 +8,6 @@ skills:
 - Model Optimization - Hyperparameter tuning, embedded inference optimization
 - Testing & Validation - Simulation environments (Mission Planner, AirSim), real-flight trials
 - Programming Languages - Python
-main-image: /drone.jpg 
+main-image: /drone.jpg
+[Project MANAS](https://projectmanas.in/)
 ---
