@@ -15,7 +15,7 @@ title: Vaishnavi Kulkarni's Portfolio # This is what shows up in the tab of the 
 name: Vaishnavi Kulkarni
 headline: 
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I am a final-year Electrical and Electronics Engineering student at MIT Manipal, specializing in control systems, VLSI, and AI applications. My work includes FPGA-based designs, control systems, and optimization projects.
+  I am a final-year Electrical and Electronics Engineering student at MIT Manipal with a strong focus on control systems, robotics, VLSI design, and AI-driven applications. My experience spans FPGA-based system development, autonomous robotics systems, advanced control strategies, and performance optimization projects, integrating hardware, software, and intelligent algorithms to deliver high-reliability, real-time solutions.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/img_me.jpg
