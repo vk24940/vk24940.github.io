@@ -9,3 +9,4 @@ skills:
   - Embedded & Robotics Platforms - ROS, Python, C++
 main-image: /nova.jpg
 ---
+[Project MANAS](https://projectmanas.in/)
