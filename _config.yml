@@ -23,14 +23,14 @@ profile_image: ./assets/images/profile-image/avatar.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: /assets/resume/resume.pdf #https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing # or /assets/resume/resume.pdf
+resume-url: /assets/resume/CERN_CV.pdf #https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing # or /assets/resume/resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
+  linkedin: https://www.linkedin.com/in/vaishnavi-sh-kulkarni    # https://www.linkedin.com/in/{your url slug} 
+  github: https://github.com/vk2494    # https://github.com/{your url slug} 
   stackoverflow: #test      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
@@ -43,16 +43,6 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
-    tools:
-    - Fusion 360 (Autodesk)
-  - category: PCB Design
-    tools:
-    - KiCad
-  - category: Motor & Electromagnetic Simulation
-    tools:
-    - ANSYS
-    - Siemens MAGNET
   - category: Control & Embedded Systems Development
     tools:
     - NI LabVIEW
@@ -65,8 +55,13 @@ skills:
     tools:
     - Verilog
     - VHDL (Artix-7, Zynq-7000 platforms) 
-    - Six Sigma methodologies
-    - Shain Red-X
+  - category: PCB Design
+    tools:
+    - KiCad
+  - category: Motor & Electromagnetic Simulation
+    tools:
+    - ANSYS
+    - Siemens MAGNET
   - category: AI & Machine Learning for Automation and Other Tools
     tools:
     - TensorFlow
@@ -84,6 +79,9 @@ skills:
     - Verilog
     - VBS
     - LaTeX
+  - category: 3D Modeling
+    tools:
+    - Fusion 360 (Autodesk)
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
