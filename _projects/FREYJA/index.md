@@ -8,5 +8,5 @@ skills:
 - Model Optimization: Hyperparameter tuning, embedded inference optimization
 - Testing & Validation: Simulation environments (Mission Planner, AirSim), real-flight trials
 - Programming Languages: Python
-main-image: /freyjaimg 
+main-image: /drone.jpg 
 ---
