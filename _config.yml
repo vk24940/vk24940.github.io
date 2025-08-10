@@ -18,7 +18,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   I am a final-year Electrical and Electronics Engineering student at MIT Manipal, specializing in control systems, VLSI, and AI applications. My work includes FPGA-based designs, control systems, and optimization projects.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/img_me.jpg
 
 
 # Link your resume
