@@ -9,5 +9,5 @@ skills:
 - Testing & Validation - Simulation environments (Mission Planner, AirSim), real-flight trials
 - Programming Languages - Python
 main-image: /drone.jpg
-[Project MANAS](https://projectmanas.in/)
 ---
+[Project MANAS](https://projectmanas.in/)
