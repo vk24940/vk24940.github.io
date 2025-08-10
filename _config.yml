@@ -31,7 +31,7 @@ resume-url: /assets/resume/resume.pdf #https://drive.google.com/file/d/13Z3duVzh
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: test    # https://www.linkedin.com/in/{your url slug} 
   github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  stackoverflow: #test      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
@@ -45,44 +45,45 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: 3D Modeling
     tools:
-    - Onshape
-    - Solidworks
-    - Creo
     - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
-  - category: Prototyping
-    tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
-    tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
   - category: PCB Design
     tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
     - KiCad
-  - category: Problem Solving / Risk Management
+  - category: Motor & Electromagnetic Simulation
     tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
+    - ANSYS
+    - Siemens MAGNET
+  - category: Control & Embedded Systems Development
+    tools:
+    - NI LabVIEW
+    - Xilinx Vivado
+    - Vitis HLS 
+    - CCStudio
+    - Keil μVision
+    - MATLAB/Simulink
+  - category: FPGA & Digital System Design
+    tools:
+    - Verilog
+    - VHDL (Artix-7, Zynq-7000 platforms) 
     - Six Sigma methodologies
     - Shain Red-X
+  - category: AI & Machine Learning for Automation and Other Tools
+    tools:
+    - TensorFlow
+    - PyTorch
+    - Gymnasium
+    - ROS
+  - category: Programming Languages
+    tools:
+    - Java
+    - Python
+    - C
+    - C++
+    - FORTRAN
+    - Assembly
+    - Verilog
+    - VBS
+    - LaTeX
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
