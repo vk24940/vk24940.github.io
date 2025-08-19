@@ -25,7 +25,6 @@ profile_image: ./assets/images/profile-image/img_me.jpg
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
 resume-url: /assets/resume/VaishnaviK_CV.pdf #https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing # or /assets/resume/resume.pdf
 
-
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
@@ -85,7 +84,7 @@ skills:
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-#formspree-key:   #https://formspree.io/f/{8-digit key}
+formspree-key:   #https://formspree.io/f/{8-digit key}
 
 
 
